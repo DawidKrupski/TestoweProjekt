@@ -1,0 +1,10 @@
+import './js/api';
+import './js/catalog';
+import './js/footer';
+import './js/header';
+import './js/hero';
+import './js/modal_1';
+import './js/modal_2';
+import './js/theme-switcher';
+import './js/upcoming';
+import './js/weekly_trends';
